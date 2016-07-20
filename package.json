@@ -1,0 +1,27 @@
+{
+  "name": "lym",
+  "version": "0.0.0",
+  "description": "\"Path de aprendizaje del drive de MongoDB\",",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saramorales/lym.git"
+  },
+  "keywords": [
+    "MongoDB",
+    "drive",
+    "node"
+  ],
+  "author": "stephany.martell@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saramorales/lym/issues"
+  },
+  "homepage": "https://github.com/saramorales/lym#readme",
+  "dependencies": {
+    "mongodb": "^2.2.4"
+  }
+}
